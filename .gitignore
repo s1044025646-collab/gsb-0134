@@ -1,0 +1,9 @@
+node_modules/
+dist/
+ec-data/
+demo-data/
+.srv-data/
+.cli-data/
+.cli-src/
+.tmp-sanity/
+*.log
